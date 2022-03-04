@@ -1,0 +1,55 @@
+.simulation{
+    display: flex;
+    margin-left: 55px;
+
+}
+.sim2{
+    border: 1px solid;
+    height: 90px;
+    width: 150px;
+    margin-top: 12px;
+    background: orangered;
+    color: white;
+    margin-left: 20px;
+    text-align: center;
+}
+.h{
+    margin-top: 30px;
+    font-size: 22px;
+}
+
+.sim3{
+    border: 1px solid orangered;
+    height: 90px;
+    margin-top: 12px;
+    width: 270px;
+    margin-left: 20px;
+
+}
+.hh{
+    margin-top: 30px;
+    font-size: 22px;
+    margin-left: 10px;
+}
+.cards{
+    display: flex;
+    text-align: center;
+}
+.card{
+    border: 1px solid white;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  margin: 10px;
+  height: 195px;
+  margin-bottom: 10px;
+  width: 253px;
+  text-align: center;
+  background: white;
+  margin-left: 55px;
+  
+}
+.logo{
+    width: 90px;
+}
+.content{
+    margin-left: 50px;
+}
